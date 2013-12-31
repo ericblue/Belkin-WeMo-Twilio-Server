@@ -2,7 +2,7 @@
 
 #
 # Author:       Eric Blue - ericblue76@gmail.com
-# Project:      Home Automation Hack - Belkin Wemo + Twillio + Siri
+# Project:      Home Automation Hack - Belkin Wemo + Twilio + Siri
 # Version:      1.0 - 12-30-2013    Initial Relase
 #
 
